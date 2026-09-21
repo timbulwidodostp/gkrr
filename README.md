@@ -1,6 +1,8 @@
 # gkrr
 Gaussian Kernel Robust Regression (GKRReg) Use gkrr (gkrreg) With (In) R Software
 
+https://www.youtube.com/watch?v=fly4dHrI-VA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
